@@ -15,6 +15,6 @@ Le but de cette publication par Du, Lee et Tian et de savoir si l'apprentissage 
 J'ai réussi à reproduire pour 2 des 3 CNN une courbe avec une forme semblable aux observations publiées. Cela soutient leur idée qu'un CNN apprend en temps polynomial.
 
 ## Mes programmes (inclus dans ce dossier GitHub)
-**ICLR Demo.ipynb:** une démonstration visuelle de mes reproductions
+**ICLR Demo.ipynb:** une démonstration visuelle de mes reproductions avec une analyse plus approfondie
 
 **iclr_conv.py:**    une classe avec un CNN **Keras** que j'ai conçu pour reproduire les travaux de Du, Lee et Tian.
