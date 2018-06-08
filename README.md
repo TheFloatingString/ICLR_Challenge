@@ -1,4 +1,5 @@
 # ICLR_Challenge
+Ensemble de programmes conçus par Laurence Liang le jeudi 7 juin 2018 pour reproduire une publication de la conférence ICLR.
 
 ![MNIST](https://cdn-images-1.medium.com/max/1600/1*yBdJCRwIJGoM7pwU-LNW6Q.png)
 
@@ -15,4 +16,5 @@ J'ai réussi à reproduire pour 2 des 3 CNN une courbe avec une forme semblable 
 
 ## Mes programmes (inclus dans ce dossier GitHub)
 **ICLR Demo.ipynb:** une démonstration visuelle de mes reproductions
+
 **iclr_conv.py:**    une classe avec un CNN **Keras** que j'ai conçu pour reproduire les travaux de Du, Lee et Tian.
