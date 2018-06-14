@@ -1,4 +1,7 @@
 # ICLR_Challenge
+
+**Auteur: Laurence Liang, étudiant en 4e secondaire au Collège Jean-de-Brébeuf**
+
 Ensemble de programmes conçus par Laurence Liang le jeudi 7 juin 2018 pour reproduire une publication de la conférence ICLR.
 
 ![MNIST](https://cdn-images-1.medium.com/max/1600/1*yBdJCRwIJGoM7pwU-LNW6Q.png)
